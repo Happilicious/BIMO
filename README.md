@@ -28,3 +28,6 @@ Debug:
 - File with test_ prefix is used to make sure each dependencies are installed.
 - To know which serial port Arduino is using, use ls /dev/tty*
 - If Arduino is not detected, use sudo usermod -a -G dialout $USER and re-login.
+
+Screenshot:
+![bimo](https://user-images.githubusercontent.com/25707231/63456254-15f95d80-c481-11e9-9ea0-70672962c851.jpeg)
