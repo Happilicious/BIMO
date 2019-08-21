@@ -12,6 +12,10 @@ import time
 
 #All of this is a pile of vomit, bad practice,
 #and hard coding due to time constraints
+
+#Prerequisites:
+#Python3, OpenCV, PySimpleGUI, TkInter, PySerial
+
 #global variable please have mercy
 data = []	#stores all data
 name = []	#stores name
