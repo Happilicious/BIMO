@@ -1,4 +1,5 @@
-
+//This arduino sketch is used to check whether serial comm works
+//Sends data upon button press
 unsigned long lastDebounceTime=0;
 unsigned long debounceDelay=50;
 
