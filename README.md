@@ -21,7 +21,7 @@ Instructions:
 4. Create a folder called "opencv" inside "environment"
 5. Unzip the contents of opencv.zip to "opencv"
 6. Activate virtual environment via source env/bin/activate
-7. Install OpenCV, PySimpleGUI, PySerial
+7. Install OpenCV, PySimpleGUI, PySerial via pip inside virtual environment
 8. Run bimo.py by python3 bimo.py
 
 Debug:
