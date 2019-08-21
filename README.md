@@ -24,6 +24,6 @@ Instructions:
 7. Run bimo.py by python3 bimo.py
 
 Debug:
-File with test_ prefix is used to make sure each dependencies are installed.
-To know which serial port Arduino is using, use ls /dev/tty*
-If Arduino is not detected, use sudo usermod -a -G dialout $USER and re-login.
+- File with test_ prefix is used to make sure each dependencies are installed.
+- To know which serial port Arduino is using, use ls /dev/tty*
+- If Arduino is not detected, use sudo usermod -a -G dialout $USER and re-login.
