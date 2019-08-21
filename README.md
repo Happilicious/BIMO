@@ -17,11 +17,13 @@ Dependencies:
 Instructions: 
 1. Install Python3, pip3, and TkInter
 2. Create a folder for virtual environment named "environment"
-2. Create a virtual environment named "env" via python3 -m venv env
-3. Create a folder called "opencv" inside "environment"
+3. Create a virtual environment named "env" via python3 -m venv env
+4. Create a folder called "opencv" inside "environment"
 5. Unzip the contents of opencv.zip to "opencv"
 6. Activate virtual environment via source env/bin/activate
 7. Run bimo.py by python3 bimo.py
 
+Debug:
 File with test_ prefix is used to make sure each dependencies are installed.
-
+To know which serial port Arduino is using, use ls /dev/tty*
+If Arduino is not detected, use sudo usermod -a -G dialout $USER and re-login.
