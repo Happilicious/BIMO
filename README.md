@@ -30,4 +30,4 @@ Tested on Ubuntu 18.04 and Lubuntu 19.04
 - If Arduino is not detected, use sudo usermod -a -G dialout $USER and re-login.
 
 ## Screenshot:
-![bimo](https://user-images.githubusercontent.com/25707231/63456254-15f95d80-c481-11e9-9ea0-70672962c851.jpeg)
+![63456254-15f95d80-c481-11e9-9ea0-70672962c851](https://user-images.githubusercontent.com/25707231/64175454-e6d5e980-ce8d-11e9-870a-d007cc74fec6.jpeg)
